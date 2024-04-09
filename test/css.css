@@ -1,0 +1,9 @@
+@font-face{
+  font-family: 'Pure Blossom';
+  src: url('./font/Pure-Blossom-Free.ttf');
+}
+
+
+body{
+  font-family: 'Pure Blossom';
+}
